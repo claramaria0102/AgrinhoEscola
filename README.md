@@ -1,1 +1,2 @@
-# AgrinhoEscola
+Explicação Sobre Agricultura Sustentavel
+Este projeto é um site educativo sobre rotação de culturas e agricultura sustentável. Foi desenvolvido com HTML, CSS e JavaScript para apresentar informações sobre a importância da conservação do solo e das práticas agrícolas sustentáveis. O site inclui textos explicativos, uma tabela comparativa e um quiz interativo que permite aos utilizadores testar os seus conhecimentos de forma simples e dinâmica.
