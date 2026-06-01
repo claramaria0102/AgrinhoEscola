@@ -1,5 +1,5 @@
 # Explicação Sobre Agricultura Sustentavel
-Este projeto é um site educativo sobre rotação de culturas e agricultura sustentável, desenvolvido com HTML, CSS e JavaScript. O seu objetivo é informar e sensibilizar os utilizadores sobre a importância de práticas agrícolas mais sustentáveis e da conservação do solo.
+Este projeto é um site educativo sobre rotação de culturas e agricultura sustentável, desenvolvido com HTML, CSS e Visual Studio Code. O seu objetivo é informar e sensibilizar os utilizadores sobre a importância de práticas agrícolas mais sustentáveis e da conservação do solo.
 
 O site apresenta conteúdos explicativos organizados em secções, onde são abordados temas como a rotação de culturas, os seus benefícios, técnicas agrícolas sustentáveis e a comparação entre agricultura convencional e sustentável. Inclui também uma tabela comparativa que ajuda a visualizar as diferenças entre os dois métodos.
 
